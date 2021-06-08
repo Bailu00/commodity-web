@@ -8,7 +8,7 @@
       background-color="#000000"
       text-color="#fff"
       active-text-color="#ffd04b">
-      <el-menu-item index="1">码段生成</el-menu-item>
+      <el-menu-item index="1">码段生成1</el-menu-item>
       <el-submenu index="2">
         <template slot="title">APP版本</template>
         <el-menu-item index="2-1">获取版本</el-menu-item>
